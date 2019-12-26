@@ -1,4 +1,4 @@
-# n11.com_SeleniumWebDriverWihJava
+# n11.com Selenium Test Automation Case with JAVA
 
 **Test Ortam Bilgileri**<br>
 Kullanılan Dil:Java
